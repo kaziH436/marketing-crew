@@ -1,6 +1,6 @@
 # Marketing Crew
 
-Marketing Crew is a configuration-driven, multi-agent workflow for researching a product and preparing a coordinated set of marketing deliverables. A lead marketer coordinates specialist agents for social media, blog writing, and SEO. CrewAI runs the tasks in sequence, using a Gemini model and web research tools.
+Marketing Crew is a multi-agent workflow for researching a product and preparing a coordinated set of marketing deliverables. A lead marketer coordinates specialist agents for social media, blog writing, and SEO. CrewAI runs the tasks in sequence, using a Gemini model and web research tools.
 
 The repository includes the crew implementation, YAML configuration, and example marketing research and content drafts. It does not currently include a web app, hosted service, or public live demo.
 
@@ -176,4 +176,8 @@ Example artifacts are checked into [`data/saved_drafts/`](data/saved_drafts/), i
 - [Social media posts](data/saved_drafts/posts/)
 - [Reel script](data/saved_drafts/reels/reel_script_time_savings.md)
 
-These are sample files for browsing; they are not presented as output from a currently hosted live demo.
+
+
+[CrewAI Tutorial | Agentic AI Tutorial](https://www.youtube.com/watch?v=G42J2MSKyc8&list=PLeo1K3hjS3utjalsQ32f6fYcLkWvf3-rA&index=5)
+
+
